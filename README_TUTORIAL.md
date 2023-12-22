@@ -25,7 +25,6 @@ export default function MyApp() {
 
 ```
 
-
 ## To start the local app
 
 > $ npm start
