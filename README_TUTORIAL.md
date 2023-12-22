@@ -29,7 +29,6 @@ export default function MyApp() {
 
 > $ npm start
 
-
 # Terminologies
 JSX element - A JSX element is a combination of JavaScript code and HTML tags that describes what you’d like to display. Ex. Below, `<button>` is a JSX element.
 
